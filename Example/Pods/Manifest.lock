@@ -1,0 +1,16 @@
+PODS:
+  - CameraController (0.1.0)
+
+DEPENDENCIES:
+  - CameraController (from `../`)
+
+EXTERNAL SOURCES:
+  CameraController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CameraController: 0cee39f6169b48a60a29f61bd7781d6b1187a381
+
+PODFILE CHECKSUM: 1dd33daaba2cdd7e718f4a53d2d77463c0df6501
+
+COCOAPODS: 1.14.2

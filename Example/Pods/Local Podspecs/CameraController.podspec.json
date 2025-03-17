@@ -1,0 +1,22 @@
+{
+  "name": "CameraController",
+  "version": "0.1.0",
+  "summary": "A short description of CameraController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/朱明/CameraController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "朱明": "6537800+mingzhu1982@user.noreply.gitee.com"
+  },
+  "source": {
+    "git": "https://github.com/朱明/CameraController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "15.6"
+  },
+  "source_files": "CameraController/Classes/**/*"
+}

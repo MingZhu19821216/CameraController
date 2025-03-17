@@ -1,0 +1,6 @@
+framework module CameraController {
+  umbrella header "CameraController-umbrella.h"
+
+  export *
+  module * { export * }
+}

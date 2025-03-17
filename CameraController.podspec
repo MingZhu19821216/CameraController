@@ -21,14 +21,13 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/朱明/CameraController'
+  s.homepage         = 'https://github.com/MingZhu19821216/CameraController.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '朱明' => '6537800+mingzhu1982@user.noreply.gitee.com' }
-  s.source           = { :git => 'https://github.com/朱明/CameraController.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.author           = { 'MingZhu' => 'mingzhu19821216@gmail.com' }
+  s.source           = { :git => 'https://github.com/MingZhu19821216/CameraController.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '15.6'
 
   s.source_files = 'CameraController/Classes/**/*'
   
