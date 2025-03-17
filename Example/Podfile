@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'CameraController_Example' do
+  pod 'CameraController', :path => '../'
+
+  target 'CameraController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
